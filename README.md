@@ -1,4 +1,4 @@
-# Redux Exampel
+# Redux Example
 
 > Simple implementation of Redux using a couple React components.
 
